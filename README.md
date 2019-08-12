@@ -14,3 +14,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+This is how it looks like and swipe to experiencing the animations
+
+![alt text](https://github.com/theflutterdev/Complex-Animations-Design-1/raw/master/images/Screenshot%20from%202019-08-12%2019-39-05.png)
